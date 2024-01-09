@@ -1,4 +1,4 @@
-Sandboxie plus with license validation check patched..
+Sandboxie plus with license validation check patched.
 
 Patch used: https://www.52pojie.cn/thread-1793118-1-1.html
 
